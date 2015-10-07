@@ -1,0 +1,52 @@
+body {
+	background-color: #DAF6F6;
+	margin-top:50px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+h1 {
+	font-size:40px;
+	color:#45B4B4;
+	font-family: Helvetica, Arial;
+}
+
+h2 {
+	font-size:20px;
+	color:#45B4B4;
+	font-family: Helvetica, Arial;
+}
+
+h3 {
+	font-size:20px;
+	color:#45B4B4;
+	font-family: Helvetica, Arial;
+}
+
+p {
+	font-size:20px;
+	color:#749898;
+	font-family: helvetica, arial;
+	margin-bottom: -.5em;
+}
+
+ul {
+	margin-top: 1.3em;
+}
+
+li {
+	font-size:20px;
+	color:#749898;
+	font-family: Helvetica, Arial;
+}
+
+a {
+	text-decoration: underline;
+	color: #749898;
+}
+
+nav {
+	font-size:20px;
+	color:#749898;
+	text-align: center;
+}
